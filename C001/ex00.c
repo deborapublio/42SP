@@ -6,14 +6,13 @@
 /*   By: dda-hora <dda-hora@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/31 18:53:01 by dda-hora          #+#    #+#             */
-/*   Updated: 2022/03/31 20:25:09 by dda-hora         ###   ########.fr       */
+/*   Updated: 2022/03/31 20:33:54 by dda-hora         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<stdio.h>
+
 void 	ft_ft ( int *nbr)
 {
 	*nbr = 42 ;
-	printf ("%d\n", *nbr);
 }
 
