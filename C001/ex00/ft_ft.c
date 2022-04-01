@@ -1,20 +1,16 @@
-//Crie uma função que leve um ponteiro para int como parâmetro e defina o valor "42"
-//para aquele int
-
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ex00.c                                             :+:      :+:    :+:   */
+/*   ft_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: dda-hora <dda-hora@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/31 18:53:01 by dda-hora          #+#    #+#             */
-/*   Updated: 2022/03/31 20:33:54 by dda-hora         ###   ########.fr       */
+/*   Updated: 2022/03/31 22:42:48 by dda-hora         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void 	ft_ft ( int *nbr)
+void	ft_ft(int *nbr)
 {
 	*nbr = 42 ;
 }
-
